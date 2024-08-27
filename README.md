@@ -1,5 +1,5 @@
 # Taiwanese-Language-and-Culture
-Documenting my learning progression & cultural reserch of taiwan. Im Taiwanese and know mandarin, however dont know how to speak/write/read taiwanese which is why im learning and logging my progress. This will consist of 2 milestones:
+Documenting my learning progression & cultural research of Taiwan. Im Taiwanese and know mandarin, however dont know how to speak/write/read taiwanese which is why im learning and logging my progress. This will consist of 2 milestones:
 - 1) Basics
    - 1.2) Vocab
    - 1.3) Phrases
