@@ -29,3 +29,4 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
    
 Resources:
 - https://youtu.be/2-FLk-cVSeQ?si=oDkKvyLju43RAXg0
+- https://www.youtube.com/watch?v=CGNTeCU9nDk
