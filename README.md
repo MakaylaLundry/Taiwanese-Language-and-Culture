@@ -12,5 +12,18 @@ Documenting my learning progression & cultural research of Taiwan. Im Taiwanese 
    - 2.4) Technology
    - 2.5) People
 
+
+# Basics
+### BOPOMOFO~ Taiwanese Alphabet
+How it works- 21 Initials (consonant), final (vowel), Head vowel
+
+
+## Vocab:
+| Terms       | Translation          | Cool  |
+| ------------- |:-------------:| -----:|
+|           | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+   
 Resources:
 - https://youtu.be/2-FLk-cVSeQ?si=oDkKvyLju43RAXg0
