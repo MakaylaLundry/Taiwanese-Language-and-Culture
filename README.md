@@ -16,7 +16,8 @@ Documenting my learning progression & cultural research of Taiwan. Im Taiwanese 
 # Basics
 ### BOPOMOFO~ Taiwanese Alphabet
 How it works- 21 Initials (consonant), final (vowel), Head vowel
-![My Image](https://github.com/your-username/your-repo-name/blob/main/image.png](https://github.com/MakaylaLundry/Taiwanese-Language-and-Culture/blob/main/download.png?raw=true)
+![My Image](https://github.com/MakaylaLundry/Taiwanese-Language-and-Culture/blob/main/download.png?raw=true)
+
 
 ## Vocab:
 | Terms       | Translation          | Cool  |
