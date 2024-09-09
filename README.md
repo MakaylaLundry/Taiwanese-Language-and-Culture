@@ -16,6 +16,8 @@ Documenting my learning progression & cultural research of Taiwan. Im Taiwanese 
 # Basics
 ### BOPOMOFO~ Taiwanese Alphabet
 How it works- 21 Initials (consonant), final (vowel), Head vowel
+- inital + final + tone = a word
+     - tones: ma (straight), ma' (rising), ma^ (down-up!), ma' (falling), ma*(sharp)
 
 ![My Image](https://github.com/MakaylaLundry/Taiwanese-Language-and-Culture/blob/main/download.png?raw=true)
 
