@@ -11,6 +11,7 @@ Documenting my learning progression & cultural research of Taiwan. Im Taiwanese 
    - 2.3) Short Sentences
    - 2.4) Technology
    - 2.5) People
+   - 2.6) Contributes to areospace 
 
 
 # Basics
@@ -32,6 +33,8 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
 |           | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+# Key Events
    
 Resources:
 - https://youtu.be/2-FLk-cVSeQ?si=oDkKvyLju43RAXg0
