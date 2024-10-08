@@ -6,6 +6,7 @@ Documenting my learning progression & cultural research of Taiwan. Im Taiwanese 
    - 1.4) Pronunciation
    - 1.5) Key events
    - 1.6) Traditional Taiwanese Pratices
+   - 1.7) Culture and Tradition
 - 2) Pratical
    - 2.2) Vocab
    - 2.3) Short Sentences
@@ -34,7 +35,9 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-# Key Events
+## Key Events
+##
+
    
 Resources:
 - https://youtu.be/2-FLk-cVSeQ?si=oDkKvyLju43RAXg0
