@@ -37,7 +37,22 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
 ## Phrases
 ## Pronunciation
 ## Key Events
-1)
+| Time period       | Event          | About    |
+| ------------- |:-------------:| 
+|  0CE~1624 CE | Taiwan Before Colonisation         | --- | 
+| 1624~1683 | The European Colonial Era      |   |
+| 1683~1895 | The Qing Colonial Era     |    |
+| 1895~1952 | The Japanese Colonial Era     |    |
+| 1945~1991 | 2-28, Martial Law, White Terror, & One Party Dictatorship    |    |
+| 1949~1996 | The ROC Colonial Era     |    |
+| 1960s~1990s | Economic Growth    |    |
+| 1972 | Leaving The United Nations    |    |
+| 1960s~2003 | Protest And Democratisation    |    |
+| 1996, 2000 | The First Presidential Election, The 1st Change Of Ruling Party    |    |
+| 2008 ~ now | Wild Strawberries, Sunflowers, Anti-media Monopolisation : Democracy In Action    |    |
+| 2020 ~ 2024 | Covid19, Taiwan, And The WHO   |    |
+| 2024 ~ | A New President & A Busy Neighbourhood    |    |
+
 ## Traditional Taiwanese Pratices
 1) Taiwan's National Day
 2) Lunar New Year
