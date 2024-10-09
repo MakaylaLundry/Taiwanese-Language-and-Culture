@@ -62,6 +62,6 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
 6) Taiwanese Food Festivals
    
 Resources:
-- https://taiwanpolicycentre.com/research/timeline/
+- https://taiwanpolicycentre.com/research/timeline/ -- 10/9/24
 - https://youtu.be/2-FLk-cVSeQ?si=oDkKvyLju43RAXg0
 - https://www.youtube.com/watch?v=CGNTeCU9nDk
