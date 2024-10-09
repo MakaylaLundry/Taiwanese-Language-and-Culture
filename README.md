@@ -37,6 +37,7 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
 ## Phrases
 ## Pronunciation
 ## Key Events
+1)
 ## Traditional Taiwanese Pratices
 1) Taiwan's National Day
 2) Lunar New Year
@@ -46,5 +47,6 @@ How it works- 21 Initials (consonant), final (vowel), Head vowel
 6) Taiwanese Food Festivals
    
 Resources:
+- https://taiwanpolicycentre.com/research/timeline/
 - https://youtu.be/2-FLk-cVSeQ?si=oDkKvyLju43RAXg0
 - https://www.youtube.com/watch?v=CGNTeCU9nDk
